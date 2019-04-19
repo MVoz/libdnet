@@ -1,0 +1,31 @@
+# Object files
+*.o
+
+# Libraries
+*.lib*
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+*.la
+*.lo
+
+# Executables
+*.exe
+*.out
+*.app
+
+*m4
+config*
+Makefile
+Makefile.in
+autom4te*
+libtool
+dnet-config
+include/stamp*
+
+test/dnet/dnet
+python/setup.py
